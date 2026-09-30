@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "8J9P25A5RG.com.blaireapp.blaire",
+        "appIDs": ["8J9P25A5RG.com.blaireapp.blaire"],
+        "paths": ["/plaid/oauth", "/plaid/oauth/*"],
+        "components": [{ "/": "/plaid/oauth*" }]
+      }
+    ]
+  }
+}
